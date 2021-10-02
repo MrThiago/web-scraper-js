@@ -7,6 +7,16 @@ Clone this repository
 ```
 https://github.com/MrThiago/web-scraper-js.git
 ```
+
+Then install the npm packages
+```
+npm install
+```
+or
+```
+npm i
+```
+
 ## Run
 ```
 npm run start
