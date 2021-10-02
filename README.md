@@ -2,6 +2,9 @@
 NODE, JS, Web Scraper Sample
 Tutorial by Ania Kubów at [Code with Ania Kubów](https://www.youtube.com/watch?v=-3lqUHeZs_0)
 
+## Requirement
+You need to have [NODE](https://nodejs.org/en/) installed in your computer
+
 ## Installation
 Clone this repository 
 ```
